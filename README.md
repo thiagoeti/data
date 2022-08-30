@@ -1,9 +1,5 @@
 # Data
 
-content ...
-
-### Data
-
 Directories for work as backup, logs, volumes, settings, etc...
 
 ```console
